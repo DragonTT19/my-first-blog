@@ -25,7 +25,7 @@ SECRET_KEY = 'kr5ir-dl*$xl(vhcqpk#$al4!2j=cyr=8xxr1y5ip8%_sq(o8o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [] 
+ALLOWED_HOSTS = ['127.0.0.1','worldoft.pythonanywhere.com] 
 
 
 # Application definition
